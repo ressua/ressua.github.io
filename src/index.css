@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-orange-500: #F7931A;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #020617;
+  /* Meget mørk blå, næsten sort */
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
